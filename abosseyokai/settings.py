@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'django_filters',
     'import_export',
-    'admin_honeypot',
+    # 'admin_honeypot',
     # 'rest_framework',
 
     # Custom Apps
